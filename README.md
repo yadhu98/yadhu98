@@ -8,6 +8,13 @@
   <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/javascript-0000CD.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
   </p>
+  <p align="center">
+<a href="https://github.com/yedhink/dotfiles_ikigai">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code" alt="vscode">
+</a>
+<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/neovim-darkgreen.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"></a>
+<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/spacemacs-purple.svg?style=for-the-badge&logo=spacemacs&logoColor=white" alt="emacs"></a>
+</p><br>
 <p align="center">
 <a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yedhink.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/yadhu-krishnan-546751160"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
