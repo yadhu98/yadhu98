@@ -5,7 +5,7 @@
 <a href="https://github.com/yadhu98"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="tl;dr - self explanatory bio"></a>
 </p><br>
 <p align="center">
-  <a href="https://github.com/yadhu98/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
+  <a href="https://github.com/yadhu98/Descriptive-Answer-Evaluation-System-Using-NLP"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 <!-- <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/javascript-0000CD.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a> -->
   </p>
   <p align="center">
