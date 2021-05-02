@@ -21,7 +21,11 @@
      <a href="https://www.linkedin.com/in/yadhu-krishnan-546751160"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 <hr>
-
-  
+<p align="center">
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</p>
+<hr>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=yadhu98&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadhu98&layout=compact&theme=tokyonight)](https://github.com/yadhu98)
