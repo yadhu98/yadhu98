@@ -9,7 +9,7 @@
 <a href="https://github.com/yadhu98/CoVolNet-1"><img src="https://img.shields.io/badge/javascript-0000CD.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
   </p>
   <p align="center">
-<a href="https://github.com/yedhink/dotfiles_ikigai">
+<a href="https://github.com/yadhu98/terminal">
 <img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code" alt="vscode">
 </a>
 
