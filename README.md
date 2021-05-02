@@ -14,16 +14,14 @@
 </a>
 <br>
   <a href="https://github.com/yadhu98/SimpleCityBuilder"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="cplusplus"></a>
-</p><br>
-<p align="center">
-<a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yadhu98" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/yadhu-krishnan-546751160"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  </p><br>
-  <hr>
+</p>
+<hr>
 
-<img src="https://gpvc.arturio.dev/yadhu98" alt="profile views">  
+<a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yadhu98" alt="GitHub"></a>
+     <a href="https://www.linkedin.com/in/yadhu-krishnan-546751160"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 <hr>
 
+  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=yadhu98&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadhu98&layout=compact&theme=tokyonight)](https://github.com/yadhu98)
