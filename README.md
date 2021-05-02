@@ -15,6 +15,12 @@
 <br>
   <a href="https://github.com/yadhu98/SimpleCityBuilder"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="cplusplus"></a>
 </p>
+<p align="center">
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  </p>
+  <br>
 <hr>
 
 <a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yadhu98" alt="GitHub"></a>
