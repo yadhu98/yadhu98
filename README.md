@@ -15,7 +15,7 @@
 
 </p><br>
 <p align="center">
-<!-- <a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yedhink.svg?label=GitHub&style=social" alt="GitHub"></a> -->
+<a href="https://github.com/yadhu98"><img src="https://img.shields.io/github/followers/yadhu98" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/yadhu-krishnan-546751160"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   </p><br>
   <hr>
