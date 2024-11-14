@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Yadhu!]   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Yadhu!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
 <a href="https://github.com/yadhu98"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="tl;dr - self explanatory bio"></a>
