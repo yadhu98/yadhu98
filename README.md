@@ -1,6 +1,14 @@
 
 ### Hi there, I'm Yadhu!   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+As a Front-End Engineer with over 4 years of experience in the tech industry, I specialize in developing user-friendly, scalable web applications using React.js. My work spans diverse projects including CRMs, e-learning platforms, and secure document-sharing systems. I am driven by a passion for building interactive and efficient interfaces that improve user experiences and meet business needs.
 
+Throughout my career, I’ve honed my skills in API integration, responsive design, and collaboration with UX/UI teams. I’ve had the privilege of working on projects like Bait Al Kahir CRM, a charitable donation system, and Transporter CRM, a cross-border product delivery solution. Each of these experiences has deepened my understanding of building applications that balance functionality, security, and ease of use.
+
+In addition to my technical expertise in JavaScript, HTML, CSS, Redux, and Context API, I am committed to continuous learning. I’ve conducted workshops on React.js, contributed to community-driven events like ICEFOSS, and actively participate in open-source initiatives.
+
+I’m passionate about working with cutting-edge technologies and delivering solutions that make a difference. Whether it’s developing a responsive web app or collaborating with cross-functional teams, I thrive on solving complex problems through code.
+
+Feel free to connect if you’d like to collaborate on projects or discuss innovative ideas in front-end development!
 <p align="center">
 <a href="https://github.com/yadhu98"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="tl;dr - self explanatory bio"></a>
 </p><br>
